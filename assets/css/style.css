@@ -4,7 +4,10 @@ body {
     line-height: 34px;
     color: #777777;
     background: url(/Users/Regina/Basic-Portfolio/assets/images/circuit.png);
-  }
+    margin-top: 0px;
+    margin-left: 0px;
+    margin-right: 0px;  
+}
   
   * {
     box-sizing: border-box;
